@@ -1,0 +1,3 @@
+Hello, I am just practicing GIT and understanding its exciting capabilities.
+
+Alright gotta go! Its time to commit this.
